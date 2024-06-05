@@ -54,7 +54,7 @@ Description:  The OpenSSL Project is a collaborative effort to develop a robust,
 
 Package: luci-app-libernet-plus
 Version: 2.0
-Depends: libc, coreutils, coreutils-stdbuf, jq, ip-full, kmod-tun, openssh-client, https-dns-proxy, php8, php8-cgi, php8-mod-session, python3, httping, stunnel, stubby, getdns, badvpn, corkscrew, simple-obfs, sshpass, trojan-go, v2ray-core, bash, curl, librt, libpthread, screen, shadowsocks-libev-ss-local, openvpn-openssl, luci-lua-runtime
+Depends: libc, coreutils, coreutils-stdbuf, jq, ip-full, kmod-tun, openssh-client, https-dns-proxy, php8, php8-cgi, php8-mod-session, python3, httping, stunnel, stubby, getdns, badvpn, corkscrew, simple-obfs, sshpass, bash, curl, librt, libpthread, screen, luci-lua-runtime
 Source: /home/ubuntu/wrt-project/custom-feeds/helmiwrt-packages/luci-app-libernet-plus
 SourceName: luci-app-libernet-plus
 Section: luci
